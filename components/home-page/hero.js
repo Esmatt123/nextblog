@@ -6,7 +6,7 @@ function Hero(){
             <Image src="/images/site/Esmatt.jpg" alt="An image showing Esmatt"  width={300} height={500}/>
         </div>
         <h1>
-            Hi, I&apos;m Esmatt
+            Hi, I&apos;m Esmatt!
         </h1>
         <p>
             I blog about web development, and programming in general
